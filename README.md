@@ -18,7 +18,7 @@ Source Data  →  Staging Layer  →  Data Warehouse  →  Reporting
 ## 🔄 ETL Process
 
 ### 1. Extract
-- Extract data from source systems (CSV / Database)
+- Extract data from source  Database
 
 ### 2. Transform
 - Handle NULL values
